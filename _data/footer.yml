@@ -46,12 +46,12 @@ contact:
 # Configuration for social media links
 # Comment out links you don't want to use (RSS is an example)
   social_links:
-  # - text: Facebook
-  #   href: https://facebook.com
-  #   external: true
-  #   type: facebook
+   - text: Facebook
+     href: https://www.facebook.com/Calpolyumbra/
+     external: true
+     type: facebook
    - text: Twitter
-     href: https://twitter.com/cpp_umbra
+     href: https://twitter.com/CPP_UMBRA
      external: true
      type: twitter
   # - text: YouTube
