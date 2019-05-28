@@ -62,7 +62,7 @@ contact:
   #   href: https://usa.gov/
   #   external: true
   #   type: rss
-  heading: Agency contact center
+  heading: Contact Us
 # Configuration for contact links for email, phone, etc...
   contact_links:
   # - text: (800) CALL-GOVT
