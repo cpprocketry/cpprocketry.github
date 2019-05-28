@@ -37,9 +37,9 @@ heading: UMBRA
 # Configuration for agency logo(s) (shown side by side).
 # If the logo is external add external: true
 logos:
-  - src: https://18f.gsa.gov/assets/img/logos/18f-logo.svg
-    alt: 18F
-    external: true
+  - src: ../assets/img/UMBRA Logo.svg
+    alt: UMBRA
+    external: false
 
 # Configuration for footer contact links
 contact:

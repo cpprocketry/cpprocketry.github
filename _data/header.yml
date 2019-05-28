@@ -23,7 +23,7 @@ type: extended
 logo:
   src: ../assets/img/UMBRA Logo.svg
   alt: UMBRA
-  external: true
+  external: false
 
 # this is a key into _data/navigation.yml
 primary:
