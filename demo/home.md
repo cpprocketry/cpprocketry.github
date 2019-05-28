@@ -6,16 +6,16 @@ layout: home
 
 hero:
   image: /assets/img/hero.jpg
-  callout:
-    alt: "Hero callout:"
-    text: Call attention to a current priority
-  button:
-    href: /callout/
-    text: This is a call to all my
-  link:
-    text: Link to more about that priority
-    href: /link/
-  content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
+  #callout:
+  #  alt: "Hero callout:"
+  #  text: Call attention to a current priority
+  #button:
+  #  href: /callout/
+  #  text: This is a call to all my
+  #link:
+  #  text: Link to more about that priority
+  #  href: /link/
+  #content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
 
 tagline: A tagline highlights your approach.
 intro: |
