@@ -21,8 +21,8 @@ type: extended
 # Configuration for site header logo
 # If the logo is external add external: true
 logo:
-  src: "../assets/img/UMBRA Logo.svg"
-  alt: UMBRA
+  src: "/assets/img/UMBRA Logo.svg"
+  alt: UMBRA Test
 #  external: true
 
 # this is a key into _data/navigation.yml
