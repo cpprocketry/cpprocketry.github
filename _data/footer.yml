@@ -39,7 +39,7 @@ heading: UMBRA
 logos:
   - src: "../assets/img/UMBRA Logo.svg"
     alt: UMBRA
-    external: false
+#    external: true
 
 # Configuration for footer contact links
 contact:
