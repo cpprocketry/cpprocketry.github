@@ -50,10 +50,10 @@ contact:
   #   href: https://facebook.com
   #   external: true
   #   type: facebook
-  # - text: Twitter
-  #   href: https://twitter.com
-  #   external: true
-  #   type: twitter
+   - text: Twitter
+     href: https://twitter.com/cpp_umbra
+     external: true
+     type: twitter
   # - text: YouTube
   #   href: https://youtube.com
   #   external: true
