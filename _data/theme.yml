@@ -4,11 +4,11 @@
 ## 'base' - Defines header site title, active top nav link color, left nav link color, link color in primary and main footer and text in usa-banner
 ## 'visited' - Defines visited link color
 #
- colors:
-   primary: 'DarkSlateGray'
-   primary-darker: 'Black'
-   base: 'Black'
-   visited: 'Indigo'
+# colors:
+#   primary: 'DarkSlateGray'
+#   primary-darker: 'Black'
+#   base: 'Black'
+#   visited: 'Indigo'
 #
 # # USA banner colors
 #   usa-banner:
@@ -17,12 +17,12 @@
 #     usa-banner-link: 'Gray'
 #     usa-banner-link-hover: 'Gray'
 #
-# # Header colors
-#   header:
-#     header-bg: '#e6e3d0'
-#     header-title: 'Black'
-#     header-link: 'DarkSlateGray'
-#     header-link-hover: 'Indigo'
+ # Header colors
+   header:
+     header-bg: '#e6e3d0'
+     header-title: 'Black'
+     header-link: 'DarkSlateGray'
+     header-link-hover: 'Indigo'
 #
 # # Alt section colors
 #   alt-section:
