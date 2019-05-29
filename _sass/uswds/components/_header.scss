@@ -55,7 +55,7 @@ $z-index-nav:     9000;
 }
 @font-face {
   font-family: 'helvetica'; /*a name to be used later*/
-  src: "../../../assets/fonts/HelveticaCE-CondBoldObl.otf"; /*URL to font*/
+  src: "../../../assets/fonts/Helvetica-Condensed-BlackObl.otf"; /*URL to font*/
 }
 .usa-logo-text {
   display: block;
@@ -65,7 +65,7 @@ $z-index-nav:     9000;
   font-family: 'helvetica';
   font-style: oblique;
   font-weight: bold;
-  font-stretch: ultra-condensed;
+  font-stretch: extra-condensed;
   margin: 0;
 
   @include media($nav-width) {
