@@ -64,6 +64,7 @@ $z-index-nav:     9000;
   // font-weight: $font-bold;
   font-family: 'helvetica';
   font-style: italic;
+  font-weight: $font-bold;
   margin: 0;
 
   @include media($nav-width) {
