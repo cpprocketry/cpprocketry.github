@@ -7,7 +7,7 @@ layout: home
 hero:
   image: /assets/img/hero.jpg
 
-tagline: A tagline highlights your approach.
+tagline: Cal Poly Pomona's Rocketry Club
 intro: |
   The tagline should inspire confidence and interest, [focusing on the value](javascript:void(0);) that your overall approach offers to your audience. Use a heading typeface and keep your tagline to just a few words, and don’t confuse or mystify.
 
