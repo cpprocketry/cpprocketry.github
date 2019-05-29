@@ -20,9 +20,14 @@
         margin-top: 0;
         height: 2.4rem;
       }
-
+      
+      @font-face {
+        font-family: 'helvetica'; /*a name to be used later*/
+        src: "assets/fonts/HelveticaCE-BoldOblique.otf"; /*URL to font*/
+      }
       & + .usa-logo-text {
         float: left;
+        font-family: 'helvetica';
       }
     }
   }
