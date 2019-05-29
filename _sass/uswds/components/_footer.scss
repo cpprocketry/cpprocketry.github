@@ -459,6 +459,10 @@ li.usa-footer-primary-content {
 
 .usa-footer-big-logo-heading {
   margin-top: $spacing-md-small;
+  font-family: 'HelveticaCE';
+  font-style: oblique;
+  font-weight: bolder;
+  letter-spacing: -2pt;
 
   @include media($medium-screen) {
     margin-top: $spacing-medium;
@@ -469,6 +473,10 @@ li.usa-footer-primary-content {
   display: inline-block;
   margin-top: $spacing-md-small;
   padding-left: $spacing-md-small;
+  font-family: 'HelveticaCE';
+  font-style: oblique;
+  font-weight: bolder;
+  letter-spacing: -2pt;
 }
 
 .usa-footer-contact-heading {
