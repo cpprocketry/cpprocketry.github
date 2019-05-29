@@ -437,9 +437,18 @@ li.usa-footer-primary-content {
   max-width: 5rem;
 }
 
+@font-face {
+  font-family: 'HelveticaCE'; /*a name to be used later*/
+  src: "../../../assets/fonts/HelveticaCE.otf"; /*URL to font*/
+}
+
 .usa-footer-logo-heading {
   display: block;
   margin-top: $spacing-small;
+  font-family: 'HelveticaCE';
+  font-style: oblique;
+  font-weight: bolder;
+  letter-spacing: -2pt;
 
   @include media($medium-screen) {
     display: inline-block;
