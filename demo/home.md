@@ -46,6 +46,12 @@ graphics:
     description: In addition to your goal, find out your users’ goals. [What do they want to know](https://18f.gsa.gov/) or do that supports your mission? Use these headings to show those.
 ---
 
+graphics:
+  - image:
+      src: /assets/img/hero.jpg
+      alt: ''
+---
+
 ## Section heading
 
 Everything up to this point [should help people](javascript:void(0);) understand your agency or project: who you are, your goal or mission, and how you approach it. Use this section to encourage them to act. Describe why they should get in touch here, and use an active verb on the button below. “Get in touch,” “Learn more,” and so on.
