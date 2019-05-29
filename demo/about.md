@@ -3,7 +3,7 @@ title: About
 description: This is the About page.
 permalink: /about/
 
-layout: post
+layout: page
 ---
 
 ## Section one
