@@ -17,9 +17,9 @@ primary:
   - text: Projects
     links:
       - text: Project 1
-        href: /project/1/
+        href: /project/#Project-1
       - text: Project 2
-        href: /project/2/
+        href: /project/#Project-2
 
 #secondary:
 #  - text: Documentation
@@ -32,9 +32,9 @@ project:
     href: /project/
     links:
       - text: Project 1
-        href: /project/1/
+        href: /project/#project-one
       - text: Project 2
-        href: /project/2/
+        href: /project/#
 
 footer:
   - text: About
