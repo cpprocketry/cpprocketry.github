@@ -15,6 +15,7 @@ primary:
   - text: About
     href: /about/
   - text: Projects
+    href: /project/
     links:
       - text: Project 1
         href: /project/#Project-1
