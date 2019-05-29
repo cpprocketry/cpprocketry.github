@@ -9,13 +9,7 @@ hero:
   callout:
     alt: "Hero callout:"
     text: Call attention to a current priority
-  button:
-    href: /callout/
-    text: This is a call to all my
-  link:
-    text: Link to more about that priority
-    href: /link/
-  content: Support the callout with some short explanatory text. You don't need more than a couple of sentences.
+  content: Support the callout with some short explanatory text. You don't need more than a couple of sentences. And this is just used to fill out the image so it ain't too small.
 
 tagline: A tagline highlights your approach.
 intro: |
