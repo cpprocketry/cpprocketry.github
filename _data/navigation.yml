@@ -12,33 +12,20 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
+  - text: About
+    href: /about/
+  - text: Projects
     links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-      - text: Demo link D
-        href: /two/a/
-      - text: Demo link E
-        href: /two/b/
-      - text: Demo link F
-        href: /two/c/
-  - text: Referenced section
-    links: footer
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+      - text: Project 1
+        href: /project/1/
+      - text: Project 2
+        href: /project/2/
 
-secondary:
-  - text: Documentation
-    href: /docs/
-  - text: Theme
-    href: /theme/
+#secondary:
+#  - text: Documentation
+#    href: /docs/
+#  - text: Theme
+#    href: /theme/
 
 docs:
   - text: Sidenav Documentation

@@ -5,7 +5,7 @@ description: Cal Poly Pomona's Rocketry Club.
 # This is used for adding an edit this page link to the footer
 github_info:
   organization: CPPRocketry
-  repository: uswds-jekyll
+  repository: cpprocketry.github.io
   default_branch: master
 
 # Configuration for setting the site width to 100%
