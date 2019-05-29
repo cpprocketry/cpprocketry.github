@@ -6,32 +6,16 @@ permalink: /project/
 layout: post
 sidenav: project
 subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
+  - text: Project 1
+    href: '#Project 1'
+  - text: Project 2
+    href: '#Project 2'
 ---
 
-## Section one
+## Project 1
 
 This is some [content](https://18f.gsa.gov/).
 
-### Section two
+### Project 2
 
 This is some more [content](javascript:void(0);).
-
-#### Section three
-
-This is some more [content](#).
-
-##### Section four
-
-This is some more [content](https://18f.gsa.gov/).
-
-###### Section five
-
-This is some more [content](https://18f.gsa.gov/).
-
-###### Section six
-
-This is some more [content](https://18f.gsa.gov/).
