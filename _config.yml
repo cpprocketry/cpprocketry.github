@@ -32,10 +32,10 @@ github_info:
 # Configuration for projects and team collections
 # See https://jekyllrb.com/docs/collections/ for more information about collections.
 # collections:
-#   projects:
-#     output: true
-#   team:
-#     output: true
+   projects:
+     output: true
+   team:
+     output: true
 
 # Compress Sass
 sass:
