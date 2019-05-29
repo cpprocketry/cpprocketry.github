@@ -1,10 +1,10 @@
 ---
-title: Projects
-description: This is the projects page.
-permalink: /project/
+title: Documentation
+description: This is a documentation page.
+permalink: /docs/
 
 layout: post
-sidenav: project
+sidenav: docs
 subnav:
   - text: Section one
     href: '#section-one'
