@@ -8,7 +8,7 @@ hero:
   image: /assets/img/hero.jpg
   callout:
     alt: "Hero callout:"
-    text: Call attention to a current priority
+    text: Call attention to a current priority And this is just used to fill out the image so it ain't too small
   content: Support the callout with some short explanatory text. You don't need more than a couple of sentences. And this is just used to fill out the image so it ain't too small.
 
 tagline: A tagline highlights your approach.
