@@ -27,17 +27,15 @@ primary:
 #  - text: Theme
 #    href: /theme/
 
-docs:
+project:
   - text: Sidenav Documentation
-    href: /docs/
+    href: /project/
   - text: Sidenav Navigation section
     links:
-      - text: Demo link A
-        href: /two/a/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
+      - text: Project 1
+        href: /project/1/
+      - text: Project 2
+        href: /project/2/
   - text: Sidenav Referenced section
     links: footer
   - text: Sidenav External link
@@ -45,13 +43,10 @@ docs:
     external: true
 
 footer:
-  - text: Documentation
-    href: /docs/
-  - text: Demo link
-    href: /demo/
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+  - text: About
+    href: /about/
+  - text: Project
+    href: /project/
 # Uncomment the items below and comment the items above in the `footer` list
 # to use footer link columns in the 'big' footer style.
   # - text: Documentation

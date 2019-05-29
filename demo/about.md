@@ -4,12 +4,6 @@ description: This is the About page.
 permalink: /about/
 
 layout: post
-sidenav: about
-subnav:
-  - text: Section one
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
 ---
 
 ## Section one
