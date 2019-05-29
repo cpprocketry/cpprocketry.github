@@ -65,7 +65,7 @@ $z-index-nav:     9000;
   font-family: 'HelveticaCE';
   font-style: oblique;
   font-weight: bolder;
-  letter-spacing: 0pt;
+  letter-spacing: -1pt;
   margin: 0;
 
   @include media($nav-width) {
