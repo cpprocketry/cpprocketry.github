@@ -53,12 +53,16 @@ $z-index-nav:     9000;
     }
   }
 }
-
+@font-face {
+  font-family: 'helvetica'; /*a name to be used later*/
+  src: "assets/fonts/HelveticaCE-BoldOblique.otf"; /*URL to font*/
+}
 .usa-logo-text {
   display: block;
-  font-size: $h5-font-size;
-  font-style: normal;
-  font-weight: $font-bold;
+  // font-size: $h5-font-size;
+  // font-style: normal;
+  // font-weight: $font-bold;
+  font-family: 'helvetica';
   margin: 0;
 
   @include media($nav-width) {
