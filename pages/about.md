@@ -4,13 +4,18 @@ description: This is the About page.
 permalink: /about/
 
 layout: post
-sidenav: about
+sidenav: Mission Statement
+sidenav: Officers
 subnav:
   - text: President
     href: '#President'
   - text: Vice President
     href: '#Vice President'
 ---
+
+## Mission
+
+This is some [content](https://18f.gsa.gov/).
 
 ## President
 
@@ -19,10 +24,6 @@ This is some [content](https://18f.gsa.gov/).
 ## Vice President
 
 This is some more [content](javascript:void(0);).
-
-## Section one
-
-This is some [content](https://18f.gsa.gov/).
 
 ### Section two
 
