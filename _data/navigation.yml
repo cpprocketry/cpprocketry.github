@@ -14,7 +14,7 @@
 primary:
   - text: About
     href: /about/
-    lins:
+    links:
       - text: Mission Statement
         href: /about/#Mission
       - text: Officers
