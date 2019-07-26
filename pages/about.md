@@ -5,13 +5,6 @@ permalink: /about/
 
 layout: post
 sidenav: about
-subnav:
-  - text: President
-    href: '#President'
-  - text: Vice President
-    href: '#Vice-President'
-  - text: Webmaster
-    href: '#Webmaster'
 ---
 
 ## Mission
