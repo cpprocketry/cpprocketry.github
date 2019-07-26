@@ -4,8 +4,7 @@ description: This is the About page.
 permalink: /about/
 
 layout: post
-sidenav: Mission Statement
-sidenav: Officers
+sidenav: about
 subnav:
   - text: President
     href: '#President'
