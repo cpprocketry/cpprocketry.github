@@ -4,11 +4,11 @@ description: This is the About page.
 permalink: /about/
 
 layout: post
-sidenav: Officers
+sidenav: about
 subnav:
   - text: President
     href: '#President'
-  - text: Project 2
+  - text: Vice President
     href: '#Vice President'
 ---
 
