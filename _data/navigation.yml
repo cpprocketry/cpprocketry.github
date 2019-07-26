@@ -14,6 +14,11 @@
 primary:
   - text: About
     href: /about/
+    lins:
+      - text: Mission Statement
+        href: /about/#Mission
+      - text: Officers
+        href: /about/#Officers
   - text: Projects
     href: /project/
     links:
@@ -27,6 +32,17 @@ primary:
 #    href: /docs/
 #  - text: Theme
 #    href: /theme/
+
+about:
+  - text: Mission Statement
+    href: /about/#Mission
+  - text: Officers
+    href: /about/#Officers
+    links:
+      - text: President
+        href: /about/#President
+      - text: Vice President
+        href: /about/#Vice-President
 
 project:
   - text: Projects

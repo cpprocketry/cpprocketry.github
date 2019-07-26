@@ -1,5 +1,5 @@
 ---
-title: Projects -nondemo
+title: Projects
 description: This is the projects page.
 permalink: /project/
 
